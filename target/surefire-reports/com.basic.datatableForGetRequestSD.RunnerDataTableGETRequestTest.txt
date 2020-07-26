@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: com.basic.datatableForGetRequestSD.RunnerDataTableGETRequestTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 2.361 sec <<< FAILURE!
+Then user validate following in json(Scenario: Test my Get Method106)  Time elapsed: 0.008 sec  <<< ERROR!
+java.lang.NullPointerException
+	at com.basic.datatableForGetRequestSD.DatatableGETRequestTestSD.user_validate_following_in_json(DatatableGETRequestTestSD.java:51)
+	at ?.Then user validate following in json(DataTableGetRequestDataDriven.feature:7)
+
+Scenario: Test my Get Method106  Time elapsed: 0.009 sec  <<< ERROR!
+java.lang.NullPointerException
+	at com.basic.datatableForGetRequestSD.DatatableGETRequestTestSD.user_validate_following_in_json(DatatableGETRequestTestSD.java:51)
+	at ?.Then user validate following in json(DataTableGetRequestDataDriven.feature:7)
+
